@@ -20,6 +20,8 @@ main {
   border: none;
   flex-grow: 1;
   font-size: 26px;  
+  font-family: Bangers;
+  letter-spacing: 2px;
   padding: 0 16px;
 }
 
