@@ -1,7 +1,7 @@
 # Chicken-Gif-Finder
 Modified from the JavaScript101 2021 workshop by Summer of Tech 
 
-https://blissful-panini-b2ec22.netlify.app/
+https://chicken-gif-finder.netlify.app/
 
 Modifications:
  - Make chicken themed
